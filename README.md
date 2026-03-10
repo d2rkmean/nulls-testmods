@@ -12,7 +12,7 @@ An Android utility for installing and testing Null's Brawl mods and more!
 
 ### Build
 ```bash
-git clone [https://github.com/d2rkmean/nulls-testmods.git](https://github.com/d2rkmean/nulls-testmods.git)
+git clone https://github.com/d2rkmean/nulls-testmods.git
 cd nulls-testmods
 ./gradlew assembleDebug
 ```
